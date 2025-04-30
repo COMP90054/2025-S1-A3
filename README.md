@@ -17,7 +17,7 @@ You must fully and carefully read the assignment specification and instructions 
  
 The purpose of this project is to implement an autonomous agent that can play the game Sequence and compete in the UoM COMP90054-2025 Sequence competition:
 
- **Please read carefully the rules of the [Sequence game](https://www.ultraboardgames.com/azul/game-rules.php)**. Sequence can be understood as a non-deterministic 2-player game. Understanding the results and different strategies is important for designing a good agent for this project. Additional technical information on the contest project and how to get started can be found in file [sequence.md](Sequence/sequence.md). 
+ **Please read carefully the rules of the [Sequence game](https://en.wikipedia.org/wiki/Sequence_(game))**. Sequence can be understood as a non-deterministic 2-player game. Understanding the results and different strategies is important for designing a good agent for this project. Additional technical information on the contest project and how to get started can be found in file [sequence.md](Sequence/sequence.md). 
 
 
 ### Table of contents
